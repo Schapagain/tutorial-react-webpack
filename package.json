@@ -1,14 +1,17 @@
 {
   "name": "tutorial-react-webpack",
   "version": "1.0.0",
-  "description": "",
+  "description": "Project to help learn Webpack basics",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack serve --mode development"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "webpack",
+    "react"
+  ],
+  "author": "Sandesh Chapagain",
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.2",
